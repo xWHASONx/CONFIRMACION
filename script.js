@@ -15,11 +15,11 @@ function initAutocomplete() {
 
 document.addEventListener('DOMContentLoaded', () => {
     // --- 1. CONFIGURACIÓN CON TUS CLAVES ---
-    // ===== CLAVES DE EMAILJS ACTUALIZADAS =====
-    const EMAILJS_PUBLIC_KEY = 'VdsHeITrSDIs8Mrlj';
-    const EMAILJS_SERVICE_ID = 'service_e1s47fl';
-    const EMAILJS_TEMPLATE_ID = 'template_76lc65k';
-    // ==========================================
+    // ===== CLAVES DE EMAILJS CORREGIDAS =====
+    const EMAILJS_PUBLIC_KEY = 'uu13Uw2hqh0Y2eMy-';
+    const EMAILJS_SERVICE_ID = 'service_62vzrtr';
+    const EMAILJS_TEMPLATE_ID = 'template_k5fo21h';
+    // =======================================
     emailjs.init(EMAILJS_PUBLIC_KEY);
 
     const firebaseConfig = {
